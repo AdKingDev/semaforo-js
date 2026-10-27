@@ -10,19 +10,19 @@ A aplicação reproduz um ciclo de sinalização visual, destacando a cor ativa,
 
 ## ✨ Funcionalidades
 
-- 🚗 **Alternância automática:** mudança entre as luzes verde, amarela e vermelha.
+- **Alternância automática:** mudança entre as luzes verde, amarela e vermelha.
 - ⏱️ **Contagem regressiva:** exibição do tempo restante de cada etapa.
 - 💡 **Efeitos visuais:** alteração das cores e aplicação de efeitos de brilho na luz ativa.
 - 🚦 **Indicadores visuais:** emojis que representam cada situação do semáforo.
 - 🔄 **Ciclo contínuo:** repetição automática da sequência de sinalização.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **HTML5:** estruturação dos elementos da página.
 - **CSS3:** estilização do semáforo, layout e efeitos visuais.
 - **JavaScript:** controle da sequência, temporizadores, contagem regressiva e manipulação do DOM.
 
-## ⏱️ Tempo de cada sinal
+## Tempo de cada sinal
 
 | Sinal | Duração |
 |---|---:|
@@ -33,7 +33,7 @@ A aplicação reproduz um ciclo de sinalização visual, destacando a cor ativa,
 
 Após a sequência, o semáforo retorna à luz verde e reinicia o ciclo.
 
-## 📚 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto, foram praticados conceitos importantes de JavaScript e desenvolvimento web:
 
@@ -45,14 +45,14 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos importantes 
 - Criação e chamada de funções para organizar o comportamento da aplicação.
 - Manipulação do conteúdo HTML por meio de `innerHTML`.
 
-## 🚀 Melhorias futuras
+## Melhorias futuras
 
 - [ ] Refatorar a lógica do ciclo para reduzir a repetição de código.
 - [ ] Melhorar a responsividade para diferentes tamanhos de tela.
 - [ ] Aprimorar a acessibilidade dos indicadores visuais.
 - [ ] Adicionar controles para iniciar, pausar e reiniciar o semáforo.
 
-## 👨‍💻 Autor
+## Autor
 
 **Adriano Júnio**
 
