@@ -8,7 +8,7 @@ O Semáforo Digital é um projeto desenvolvido para praticar conceitos fundament
 
 A aplicação reproduz um ciclo de sinalização visual, destacando a cor ativa, exibindo um emoji correspondente e informando o tempo restante para a próxima mudança.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Alternância automática:** mudança entre as luzes verde, amarela e vermelha.
 - ⏱️ **Contagem regressiva:** exibição do tempo restante de cada etapa.
